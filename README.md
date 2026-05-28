@@ -1,5 +1,5 @@
 # Nusantara Express Logistics System
-<img width="2560" height="1440" alt="Preview-Image" src="https://github.com/user-attachments/assets/b5f225f0-362a-4cde-9dbc-20dc0686ec9e" />
+<img width="2097" height="1440" alt="Preview-Image" src="https://github.com/user-attachments/assets/dbe91b3e-0bde-47dd-983c-45754b4f5d0b" />
 
 
 **Nusantara Express** adalah aplikasi sistem manajemen logistik berbasis web yang dibuat menggunakan **React JS**, **Tailwind CSS**, **PHP Native REST API**, dan **MySQL**. Aplikasi ini dirancang untuk membantu proses pengiriman barang mulai dari tracking resi, cek ongkir, dashboard pelanggan, hingga manajemen operasional admin.
